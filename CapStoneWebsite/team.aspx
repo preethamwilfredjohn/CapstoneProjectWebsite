@@ -13,8 +13,8 @@
                 <img src="Images/Nikita.jpg" class="img-fluid" alt="Nikita"/>
                 <div Style="background-color:#f1fdfd">
                 <p style="font-size:20px"><b>Nikita Kora</b></p>
-                <p>Data Engineer with a demonstrated history of working in the information technology. 
-                    Skilled in playing with data and analyzing. Engineering professional with a Master of Science (MS) focused in Computer Science </p>
+                    <p><i>“Be bold, push yourself and get comfortable being uncomfortable”</i></p>
+                <p> Data Engineer with a demonstrated history of working in the information technology. Skilled in playing with data and analyzing. Engineering professional with a Master of Science (MS) focused in Computer Science. </p>
                     <p>
                         <a href="#"><img src="Images/linkedin.png" alt="LinkedIn"/></a>
                     </p>
@@ -25,9 +25,9 @@
                 <img src="Images/Ramitha.jpg" class="img-fluid" alt="Ramitha"/>
                 <div Style="background-color:#f1fdfd">
                     <p style="font-size:20px"><b>Ramitha Mallidi</b></p>
-                <p><i>“Success is no accident ...”</i></p>
-                    <p> Hardworker, self motivated , focused and posses constant positive attitude.
-                        Pursuing Masters in Computer Science from the University of Houston, Clear Lake 
+                <p><i>“Success is no accident...”</i></p>
+                    <p> Hard worker, self-motivated focused and possess constant positive attitude.
+                        Pursuing Masters in Computer Science from the University of Houston - Clear Lake.
                     </p>
                     <p>
                         <a href="#"><img src="Images/linkedin.png" alt="LinkedIn"/></a>
@@ -39,8 +39,7 @@
                 <div Style="background-color:#f1fdfd">
                 <p style="font-size:20px"><b>Preetham Wilfred John</b></p>
                 <p><i>“Before the fight of the fist comes the fight of mind"</i> ~ Master Shifu (Kungfu Panda)</p>
-                    <p>Self Starter, Quick Learner, Team Player.
-                    Have a professional experience as Software Engineer for three years.</p>
+                    <p>Self Starter, Quick Learner, Team Player. Have a professional experience as Software Engineer for three years.</p>
                     <p>
                         <a href="https://www.linkedin.com/in/preethamwilfredjohn/"><img src="Images/linkedin.png" alt="LinkedIn"/></a>
                     </p>
@@ -51,8 +50,7 @@
                     <div Style="background-color:#f1fdfd">
                 <p style="font-size:20px"><b>Aakib ladhani</b></p>
                 <p><i>“Success is the result of perfection, hard work, learning from failure, loyalty, and persistence.”</i></p>
-                    <p>Hardworking, self motivated, polite and quick learner. 
-                        Actively seeking Masters in Computer Information System at University of Houston, Clear Lake..</p>
+                    <p>Hardworking, self-motivated, polite and quick learner. Actively seeking Masters in Computer Information System at University of Houston - Clear Lake.</p>
                     <p>
                         <a href="#"><img src="Images/linkedin.png" alt="LinkedIn"/></a>
                     </p>
