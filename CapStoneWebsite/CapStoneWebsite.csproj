@@ -107,7 +107,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Images\Aakib.jpg" />
     <Content Include="About.aspx" />
     <Content Include="Contact.aspx" />
     <Content Include="Content\bootstrap-grid.css" />
@@ -117,18 +116,19 @@
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\Site.css" />
+    <Content Include="Images\Aakib1.jpg" />
     <Content Include="Images\dawood.jpg" />
     <Content Include="Default.aspx" />
     <Content Include="Images\Dr Boetticher.jpg" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Images\linkedin.png" />
+    <Content Include="Images\Nikita1.jpg" />
+    <Content Include="Images\Preetham1.jpg" />
+    <Content Include="Images\Ramitha1.jpg" />
     <Content Include="meeting.aspx" />
     <Content Include="mentors.aspx" />
     <Content Include="milestones.aspx" />
-    <Content Include="Images\Nikita.jpg" />
-    <Content Include="Images\Preetham.jpg" />
-    <Content Include="Images\Ramitha.jpg" />
     <Content Include="Scripts\bootstrap.bundle.js" />
     <Content Include="Scripts\bootstrap.bundle.min.js" />
     <Content Include="Scripts\bootstrap.js" />
@@ -154,6 +154,7 @@
     <Content Include="MeetingMinutes\Meting Minutes 08_27.pdf" />
     <Content Include="MeetingMinutes\Meting Minutes 09_06.pdf" />
     <Content Include="MeetingMinutes\Meting Minutes 09_11.pdf" />
+    <Content Include="MeetingMinutes\Meting Minutes 09_13.pdf" />
     <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />

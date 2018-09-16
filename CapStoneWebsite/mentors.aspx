@@ -1,6 +1,8 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="mentors.aspx.cs" Inherits="CapStoneWebsite.mentors" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
-    <div class="jumbotron" style="background-color: #ffffff!important; text-align:justify;">
+    <br />
+    <br />
+    <div class="container" style="background-color: #ffffff!important; text-align:justify;">
         <div class ="row">
             <div class="col-sm-3">
                 <img src="Images/dawood.jpg" class="img-circle" alt="Dawood Moazzem"/>
@@ -17,7 +19,7 @@
         </div>               
     </div>
     <hr />
-    <div class="jumbotron" style="background-color: #ffffff!important; text-align:justify;">
+    <div class="container" style="background-color: #ffffff!important; text-align:justify;">
         <div class ="row">            
             <div class="col-sm-3">
                 <img src="Images/Dr%20Boetticher.jpg" class="img-circle" alt="Gary D. Boetticher"/>
