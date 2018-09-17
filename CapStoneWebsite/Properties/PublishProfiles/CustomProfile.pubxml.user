@@ -29,10 +29,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/25/2018 09:42:28</publishTime>
     </File>
     <File Include="bin/CapStoneWebsite.dll">
-      <publishTime>09/13/2018 09:38:48</publishTime>
+      <publishTime>09/17/2018 16:48:39</publishTime>
     </File>
     <File Include="bin/CapStoneWebsite.pdb">
-      <publishTime>09/13/2018 09:38:48</publishTime>
+      <publishTime>09/17/2018 16:48:39</publishTime>
     </File>
     <File Include="bin/Microsoft.AspNet.FriendlyUrls.dll">
       <publishTime>07/30/2013 16:57:30</publishTime>
@@ -259,11 +259,32 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="Global.asax">
       <publishTime>08/31/2018 23:41:43</publishTime>
     </File>
+    <File Include="Images/Aakib1.jpg">
+      <publishTime>09/16/2018 17:10:43</publishTime>
+    </File>
+    <File Include="Images/dawood.jpg">
+      <publishTime>09/12/2018 22:24:31</publishTime>
+    </File>
+    <File Include="Images/Dr Boetticher.jpg">
+      <publishTime>09/12/2018 15:49:38</publishTime>
+    </File>
+    <File Include="Images/linkedin.png">
+      <publishTime>09/13/2018 00:25:18</publishTime>
+    </File>
+    <File Include="Images/Nikita1.jpg">
+      <publishTime>09/16/2018 17:10:43</publishTime>
+    </File>
+    <File Include="Images/Preetham1.jpg">
+      <publishTime>09/16/2018 17:10:43</publishTime>
+    </File>
+    <File Include="Images/Ramitha1.jpg">
+      <publishTime>09/16/2018 17:10:43</publishTime>
+    </File>
     <File Include="linkedin.png">
       <publishTime>09/13/2018 00:25:18</publishTime>
     </File>
     <File Include="meeting.aspx">
-      <publishTime>09/13/2018 09:31:30</publishTime>
+      <publishTime>09/16/2018 17:25:45</publishTime>
     </File>
     <File Include="MeetingMinutes/Meting Minutes 08_27.pdf">
       <publishTime>09/13/2018 08:31:46</publishTime>
@@ -274,8 +295,11 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="MeetingMinutes/Meting Minutes 09_11.pdf">
       <publishTime>09/13/2018 08:31:46</publishTime>
     </File>
+    <File Include="MeetingMinutes/Meting Minutes 09_13.pdf">
+      <publishTime>09/16/2018 17:24:53</publishTime>
+    </File>
     <File Include="mentors.aspx">
-      <publishTime>09/13/2018 09:38:29</publishTime>
+      <publishTime>09/16/2018 17:14:48</publishTime>
     </File>
     <File Include="milestones.aspx">
       <publishTime>09/13/2018 09:32:13</publishTime>
@@ -476,13 +500,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/31/2018 23:42:12</publishTime>
     </File>
     <File Include="Site.Master">
-      <publishTime>09/13/2018 09:11:30</publishTime>
+      <publishTime>09/16/2018 17:05:31</publishTime>
     </File>
     <File Include="Site.Mobile.Master">
       <publishTime>08/31/2018 23:42:14</publishTime>
     </File>
     <File Include="team.aspx">
-      <publishTime>09/13/2018 09:31:04</publishTime>
+      <publishTime>09/17/2018 16:48:07</publishTime>
     </File>
     <File Include="videos.aspx">
       <publishTime>09/13/2018 09:33:06</publishTime>
@@ -491,7 +515,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/31/2018 23:42:14</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>09/07/2018 18:28:45</publishTime>
+      <publishTime>09/17/2018 15:00:53</publishTime>
     </File>
   </ItemGroup>
 </Project>
