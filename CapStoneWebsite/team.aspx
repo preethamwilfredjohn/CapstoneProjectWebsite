@@ -14,7 +14,7 @@
                 <div Style="background-color:#f1fdfd">
                 <p style="font-size:20px"><b>Nikita Kora</b></p>
                     <p><i>“Be bold, push yourself and get comfortable being uncomfortable”</i></p>
-                <p> Data Engineer with a demonstrated history of working in the information technology. Skilled in playing with data and analyzing. Engineering professional with a Master of Science (MS) focused in Computer Science. </p>
+                <p> Data Engineer with a demonstrated history of working in the information technology. Engineering professional with a Master of Science (MS) focused in Computer Science. </p>
                     <p>
                         <a href="#"><img src="Images/linkedin.png" alt="LinkedIn"/></a>
                     </p>
