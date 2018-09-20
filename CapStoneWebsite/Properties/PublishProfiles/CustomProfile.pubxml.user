@@ -29,10 +29,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/25/2018 09:42:28</publishTime>
     </File>
     <File Include="bin/CapStoneWebsite.dll">
-      <publishTime>09/17/2018 16:48:39</publishTime>
+      <publishTime>09/20/2018 12:37:11</publishTime>
     </File>
     <File Include="bin/CapStoneWebsite.pdb">
-      <publishTime>09/17/2018 16:48:39</publishTime>
+      <publishTime>09/20/2018 12:37:11</publishTime>
     </File>
     <File Include="bin/Microsoft.AspNet.FriendlyUrls.dll">
       <publishTime>07/30/2013 16:57:30</publishTime>
@@ -284,19 +284,22 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/13/2018 00:25:18</publishTime>
     </File>
     <File Include="meeting.aspx">
-      <publishTime>09/16/2018 17:25:45</publishTime>
+      <publishTime>09/20/2018 12:30:28</publishTime>
     </File>
     <File Include="MeetingMinutes/Meting Minutes 08_27.pdf">
-      <publishTime>09/13/2018 08:31:46</publishTime>
+      <publishTime>09/20/2018 12:34:25</publishTime>
     </File>
     <File Include="MeetingMinutes/Meting Minutes 09_06.pdf">
-      <publishTime>09/13/2018 08:31:46</publishTime>
+      <publishTime>09/20/2018 12:35:13</publishTime>
     </File>
     <File Include="MeetingMinutes/Meting Minutes 09_11.pdf">
       <publishTime>09/13/2018 08:31:46</publishTime>
     </File>
+    <File Include="MeetingMinutes/Meting Minutes 09_12.pdf">
+      <publishTime>09/20/2018 12:35:54</publishTime>
+    </File>
     <File Include="MeetingMinutes/Meting Minutes 09_13.pdf">
-      <publishTime>09/16/2018 17:24:53</publishTime>
+      <publishTime>09/20/2018 12:36:32</publishTime>
     </File>
     <File Include="mentors.aspx">
       <publishTime>09/16/2018 17:14:48</publishTime>
@@ -506,7 +509,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/31/2018 23:42:14</publishTime>
     </File>
     <File Include="team.aspx">
-      <publishTime>09/17/2018 16:48:07</publishTime>
+      <publishTime>09/17/2018 17:15:42</publishTime>
     </File>
     <File Include="videos.aspx">
       <publishTime>09/13/2018 09:33:06</publishTime>

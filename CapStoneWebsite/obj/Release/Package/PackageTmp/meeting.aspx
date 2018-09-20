@@ -12,10 +12,10 @@
             <tr>
                 <td ><a href="MeetingMinutes/Meting%20Minutes%2008_27.pdf">Meeting Minutes 08_27</a></td>
                 <td><a href="MeetingMinutes/Meting%20Minutes%2009_06.pdf">Meeting Minutes 09_06</a></td>
-                <td><a href="MeetingMinutes/Meting%20Minutes%2009_11.pdf">Meeting Minutes 09_12</a></td>
+                <td><a href="MeetingMinutes/Meting%20Minutes%2009_12.pdf">Meeting Minutes 09_12</a></td>
             </tr>
             <tr>
-                <td ><a href="MeetingMinutes/Meting%20Minutes%2009_13.pdf">Meeting Minutes 08_27</a></td>
+                <td ><a href="MeetingMinutes/Meting%20Minutes%2009_13.pdf">Meeting Minutes 09_13</a></td>
                 <td></td>
                 <td></td>
             </tr>
