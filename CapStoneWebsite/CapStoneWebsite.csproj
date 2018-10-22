@@ -155,6 +155,11 @@
     <Content Include="MeetingMinutes\Meting Minutes 09_06.pdf" />
     <Content Include="MeetingMinutes\Meting Minutes 09_12.pdf" />
     <Content Include="MeetingMinutes\Meting Minutes 09_13.pdf" />
+    <Content Include="PDF\Project Description.pdf" />
+    <Content Include="MeetingMinutes\Meting Minutes 09_20.pdf" />
+    <Content Include="MeetingMinutes\Meting Minutes 09_27.pdf" />
+    <Content Include="MeetingMinutes\Meting Minutes 10_11 Mentor.pdf" />
+    <Content Include="MeetingMinutes\Meting Minutes 10_11a.pdf" />
     <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />
