@@ -29,10 +29,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/25/2018 09:42:28</publishTime>
     </File>
     <File Include="bin/CapStoneWebsite.dll">
-      <publishTime>09/23/2018 01:26:03</publishTime>
+      <publishTime>10/21/2018 22:34:34</publishTime>
     </File>
     <File Include="bin/CapStoneWebsite.pdb">
-      <publishTime>09/23/2018 01:26:03</publishTime>
+      <publishTime>10/21/2018 22:34:34</publishTime>
     </File>
     <File Include="bin/Microsoft.AspNet.FriendlyUrls.dll">
       <publishTime>07/30/2013 16:57:30</publishTime>
@@ -248,7 +248,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/12/2018 22:24:31</publishTime>
     </File>
     <File Include="Default.aspx">
-      <publishTime>09/07/2018 16:40:19</publishTime>
+      <publishTime>10/21/2018 18:40:32</publishTime>
     </File>
     <File Include="Dr Boetticher.jpg">
       <publishTime>09/12/2018 15:49:38</publishTime>
@@ -284,7 +284,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>09/13/2018 00:25:18</publishTime>
     </File>
     <File Include="meeting.aspx">
-      <publishTime>09/20/2018 12:38:58</publishTime>
+      <publishTime>10/21/2018 22:21:55</publishTime>
     </File>
     <File Include="MeetingMinutes/Meting Minutes 08_27.pdf">
       <publishTime>09/23/2018 01:23:12</publishTime>
@@ -301,14 +301,29 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="MeetingMinutes/Meting Minutes 09_13.pdf">
       <publishTime>09/23/2018 01:23:12</publishTime>
     </File>
+    <File Include="MeetingMinutes/Meting Minutes 09_20.pdf">
+      <publishTime>10/21/2018 20:56:02</publishTime>
+    </File>
+    <File Include="MeetingMinutes/Meting Minutes 09_27.pdf">
+      <publishTime>10/21/2018 20:56:02</publishTime>
+    </File>
+    <File Include="MeetingMinutes/Meting Minutes 10_11 Mentor.pdf">
+      <publishTime>10/21/2018 20:56:02</publishTime>
+    </File>
+    <File Include="MeetingMinutes/Meting Minutes 10_11a.pdf">
+      <publishTime>10/21/2018 22:11:27</publishTime>
+    </File>
     <File Include="mentors.aspx">
-      <publishTime>09/16/2018 17:14:48</publishTime>
+      <publishTime>10/21/2018 18:40:39</publishTime>
     </File>
     <File Include="milestones.aspx">
-      <publishTime>09/13/2018 09:32:13</publishTime>
+      <publishTime>10/21/2018 22:20:04</publishTime>
     </File>
     <File Include="Nikita.jpg">
       <publishTime>09/12/2018 22:37:06</publishTime>
+    </File>
+    <File Include="PDF/Project Description.pdf">
+      <publishTime>10/21/2018 18:36:44</publishTime>
     </File>
     <File Include="PersonImage.jpg">
       <publishTime>09/07/2018 17:14:24</publishTime>
@@ -503,13 +518,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>08/31/2018 23:42:12</publishTime>
     </File>
     <File Include="Site.Master">
-      <publishTime>09/23/2018 01:20:43</publishTime>
+      <publishTime>10/21/2018 22:08:10</publishTime>
     </File>
     <File Include="Site.Mobile.Master">
       <publishTime>08/31/2018 23:42:14</publishTime>
     </File>
     <File Include="team.aspx">
-      <publishTime>09/23/2018 01:25:04</publishTime>
+      <publishTime>10/21/2018 22:05:33</publishTime>
     </File>
     <File Include="videos.aspx">
       <publishTime>09/13/2018 09:33:06</publishTime>
