@@ -27,19 +27,24 @@
                         <td class="alert alert-success">Completed-09/20/2018</td>  
                     </tr>
                     <tr>
-                        <th scope="row">09/27/2018</th>
-                        <td>Research on types of solution</td>
-                        <td class="alert alert-success">Completed-09/27/2018</td>  
+                        <th scope="row">10/07/2018</th>
+                        <td>Research on different methods for encountering the breaches</td>
+                        <td class="alert alert-success">Completed-10/07/2018</td>  
                     </tr>
                     <tr>
-                        <th scope="row">10/04/2018</th>
-                        <td>Categorizing Solution</td>
-                        <td class="alert alert-success">Completed-10/04/2018</td>  
+                        <th scope="row">10/25/2018</th>
+                        <td>Choosing one method and developing a model</td>
+                        <td class="alert alert-success">Completed-10/25/2018</td>  
                     </tr>
                     <tr>
-                        <th scope="row">TBD</th>
-                        <td>Analyzing and Development</td>
-                        <td class="alert alert-warning">Under Progress</td>  
+                        <th scope="row">11/22/2018</th>
+                        <td>Adding features to the model</td>
+                        <td class="alert alert-success">Completed-11/22/2018</td>  
+                    </tr>
+                    <tr>
+                        <th scope="row">12/06/2018</th>
+                        <td>Final Product and Demo</td>
+                        <td class="alert alert-success">Completed-12/06/2018</td>  
                     </tr>
                 </tbody>
             </table>

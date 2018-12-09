@@ -22,8 +22,8 @@
                 </tr>
                 <tr>                
                     <td><a href="MeetingMinutes/Meting%20Minutes%2010_11a.pdf">Meeting Minutes 10_11.pdf</a></td>
-                    <td><a href="MeetingMinutes/Meting%20Minutes%2010_11%20Mentor.pdf">Meeting Minutes 10_11 With Mentor.pdf</a></td>
-                    <td></td>
+                    <td><a href="MeetingMinutes/Meting%20Minutes%2010_11%20Mentor.pdf">Meeting Minutes 10_11 With Mentor</a></td>
+                    <td><a href="MeetingMinutes/Meting%20Minutes%2011_10%20Mentor.pdf">Meeting Minutes 11_10 With Mentor</a></td>
                 </tr>
         </table>
         </div>        

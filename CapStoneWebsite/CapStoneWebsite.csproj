@@ -160,6 +160,7 @@
     <Content Include="MeetingMinutes\Meting Minutes 09_27.pdf" />
     <Content Include="MeetingMinutes\Meting Minutes 10_11 Mentor.pdf" />
     <Content Include="MeetingMinutes\Meting Minutes 10_11a.pdf" />
+    <Content Include="MeetingMinutes\Meting Minutes 11_10 Mentor.pdf" />
     <None Include="Properties\PublishProfiles\CustomProfile.pubxml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.3.1.js" />

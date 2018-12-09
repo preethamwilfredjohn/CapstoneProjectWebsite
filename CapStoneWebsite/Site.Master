@@ -5,6 +5,9 @@
 <html lang="en">
 <head runat="server">
     <meta charset="utf-8" />
+    <meta name="description" content="Monitoring tool which helps to monitor files in any operating system">
+    <meta name="keywords" content="HTML,CSS,Bootstrap, C#, .Net Framework 4.6.1, .Net Core 2.1, SQL Server, Visual Studio, Microsoft SQL Server Studio Management, Log4Net, Extended WPF ToolKit, Quartz, Microsoft API Code Pack">
+    <meta name="author" content="Authored by - Preetham Wilfred John, Nikita Kora, Aakib Ladhani, Ramitha Mallidi">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Dell Defence</title>
 
