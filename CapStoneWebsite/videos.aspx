@@ -3,7 +3,7 @@
     <br>
     <br>
     <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://youtu.be/9jJArSfUkE8" allowfullscreen></iframe>
+        <iframe class="embed-responsive-item" width="560" height="315" src="https://www.youtube.com/embed/9jJArSfUkE8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
     <br>
     <br>
